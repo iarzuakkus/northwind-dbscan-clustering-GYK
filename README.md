@@ -67,7 +67,7 @@ Segment, x_col, y_col girilerek grafik çizer. Swagger'da JSON döner ama grafik
 
 ---
 
-## ⚡þ Başlatma
+## Başlatma
 ```bash
 python -m uvicorn main:app --reload
 ```
